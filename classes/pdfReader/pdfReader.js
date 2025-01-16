@@ -7,7 +7,6 @@ class PDFReader {
     }
 
     async extractText() {
-      console.log(this.filePath)
         const data = fs.readFileSync(this.filePath);
         const pdfData = await pdfParse(data);
         return pdfData.text;
