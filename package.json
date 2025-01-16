@@ -1,0 +1,19 @@
+{
+  "name": "ai-pdf-resume-extraction",
+  "version": "1.0.0",
+  "description": "Node application to extract curriculum data using AI integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EricLeaoF/AI-pdf-resume-extraction.git"
+  },
+  "author": "Eric Leão Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EricLeaoF/AI-pdf-resume-extraction/issues"
+  },
+  "homepage": "https://github.com/EricLeaoF/AI-pdf-resume-extraction#readme"
+}
