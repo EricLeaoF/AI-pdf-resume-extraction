@@ -11,7 +11,7 @@ services:
     ports:
       - "3000:3000"
     environment:
-      CHATGPT_API_KEY: "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"   # Replace with your actual API key
+      CHATGPT_API_KEY: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"   # Replace with your actual API key
       DB_HOST: mongo:27017
       DB_NAME: resumes
       DB_COLLECTION: resume_data
