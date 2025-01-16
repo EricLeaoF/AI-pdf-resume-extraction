@@ -1,5 +1,8 @@
+const app = require('./app');
+
 async function main () {
-  console.log("application running...");
+  console.log("application running....");
+  app();
 }
 
 main();
