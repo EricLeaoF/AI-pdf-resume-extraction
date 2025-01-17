@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/EricLeaoF/AI-pdf-resume-extraction#readme",
   "dependencies": {
+    "@google/generative-ai": "^0.21.0",
     "chokidar": "^4.0.3",
     "mongodb": "^6.12.0",
     "openai": "^4.78.1",
