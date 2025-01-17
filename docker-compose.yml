@@ -11,8 +11,8 @@ services:
     ports:
       - "3000:3000"
     environment:
-      CHATGPT_API_KEY: XXX
-      # GEMINI_API_KEY: XXX
+      CHATGPT_API_KEY: XXX ## PUT YOUR API KEY HERE ##
+      # GEMINI_API_KEY: XXX ## PUT YOUR API KEY HERE ##
       DB_HOST: mongo:27017
       DB_NAME: resumes
       DB_COLLECTION: resume_data
