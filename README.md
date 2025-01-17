@@ -65,8 +65,8 @@ Use Docker Compose to start all required services:
 
   1. **Automated Resume Parsing:**
 
-    * Automatically extract structured data (e.g., name, skills, experience, education) from resumes in PDF format.
-    * This can be integrated into applicant tracking systems (ATS) for easier resume screening.
+    - Automatically extract structured data (e.g., name, skills, experience, education) from resumes in PDF format.
+    - This can be integrated into applicant tracking systems (ATS) for easier resume screening.
   
   2. **Talent Search and Management:**
 
