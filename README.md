@@ -63,10 +63,24 @@ Use Docker Compose to start all required services:
 ## Possible Use Cases
   This project can be used for various scenarios related to resume processing and management:
 
-  1. Automated Resume Parsing:
+  **Automated Resume Parsing:**
 
-    - Automatically extract structured data (e.g., name, skills, experience, education) from resumes in PDF format.
-    - This can be integrated into applicant tracking systems (ATS) for easier resume screening.
+    * Automatically extract structured data (e.g., name, skills, experience, education) from resumes in PDF format.
+    * This can be integrated into applicant tracking systems (ATS) for easier resume screening.
+  
+  **Talent Search and Management:**
+
+    * Store and manage resumes of candidates in a MongoDB database for easy search and retrieval.
+    * Use the extracted data for advanced search queries to identify candidates with specific skills or experience.
+  
+  **Resume Data Analysis:**
+
+    * Analyze trends in resume data (e.g., which skills are most common, the distribution of years of experience, etc.).
+    * This can provide insights into the job market or help employers tailor job postings.
+  
+  **Recruitment Automation:**
+
+    * Build an end-to-end recruitment automation pipeline by extracting and organizing resume data for further use in interview scheduling, candidate ranking, or job matching.
 
 ## Troubleshooting
 
