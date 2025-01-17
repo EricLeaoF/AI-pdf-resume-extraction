@@ -65,22 +65,22 @@ Use Docker Compose to start all required services:
 
   1. **Automated Resume Parsing:**
 
-    * Automatically extract structured data (e.g., name, skills, experience, education) from resumes in PDF format.
-    * This can be integrated into applicant tracking systems (ATS) for easier resume screening.
+  * Automatically extract structured data (e.g., name, skills, experience, education) from resumes in PDF format.
+  * This can be integrated into applicant tracking systems (ATS) for easier resume screening.
   
   2. **Talent Search and Management:**
 
-    * Store and manage resumes of candidates in a MongoDB database for easy search and retrieval.
-    * Use the extracted data for advanced search queries to identify candidates with specific skills or experience.
+  * Store and manage resumes of candidates in a MongoDB database for easy search and retrieval.
+  * Use the extracted data for advanced search queries to identify candidates with specific skills or experience.
   
   3. **Resume Data Analysis:**
 
-    * Analyze trends in resume data (e.g., which skills are most common, the distribution of years of experience, etc.).
-    * This can provide insights into the job market or help employers tailor job postings.
+  * Analyze trends in resume data (e.g., which skills are most common, the distribution of years of experience, etc.).
+  * This can provide insights into the job market or help employers tailor job postings.
   
   4. **Recruitment Automation:**
 
-    * Build an end-to-end recruitment automation pipeline by extracting and organizing resume data for further use in interview scheduling, candidate ranking, or job matching.
+  * Build an end-to-end recruitment automation pipeline by extracting and organizing resume data for further use in interview scheduling, candidate ranking, or job matching.
 
 ## Troubleshooting
 
