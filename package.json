@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/EricLeaoF/AI-pdf-resume-extraction/issues"
   },
-  "homepage": "https://github.com/EricLeaoF/AI-pdf-resume-extraction#readme"
+  "homepage": "https://github.com/EricLeaoF/AI-pdf-resume-extraction#readme",
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "mongodb": "^6.12.0",
+    "openai": "^4.78.1",
+    "pdf-parse": "^1.1.1"
+  }
 }
