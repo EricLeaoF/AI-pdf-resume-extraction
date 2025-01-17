@@ -14,6 +14,6 @@ module.exports = (async (content) => {
       }],
       model: 'gpt-3.5-turbo',
     });
-    console.log('...Finished AI Process!')
+  console.log('...Finished AI Process!')
   return JSON.parse(chatgptResponse.choices[0].message.content);
 })
