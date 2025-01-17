@@ -61,9 +61,9 @@ Use Docker Compose to start all required services:
   * **Data Schema:** Modify the structure of the documents in the MongoDB database to fit your business needs (e.g., add more fields such as skills, experience, education, etc.).
 
 ## Possible Use Cases
-  This project can be used for various scenarios related to resume processing and management:
+This project can be used for various scenarios related to resume processing and management:
 
-  1. **Automated Resume Parsing:**
+1. **Automated Resume Parsing:**
 
   * Automatically extract structured data (e.g., name, skills, experience, education) from resumes in PDF format.
   * This can be integrated into applicant tracking systems (ATS) for easier resume screening.
