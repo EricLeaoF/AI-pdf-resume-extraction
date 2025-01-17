@@ -1,6 +1,6 @@
 const chokidar = require('chokidar');
-const BaseAI = require('./classes/aiProcessors/baseAI');
-const PDFReader = require('./classes/pdfReader/pdfReader');
+const BaseAI = require('./aiProcessors/baseAI');
+const PDFReader = require('./pdfReader/pdfReader');
 const DatabaseManager = require('./database/databaseManager');
 
 const folderPath = './put-your-pdf-here'; 
