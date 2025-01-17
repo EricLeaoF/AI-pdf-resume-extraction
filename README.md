@@ -24,10 +24,12 @@ The system consists of three main services:
    ```bash
    git clone https://github.com/EricLeaoF/AI-pdf-resume-extraction
    cd AI-pdf-resume-extraction
+   ```
 
 2. Start the app:
   ```bash
   docker-compose up
+  ```
 
 3. Provide the PDF resume
   Insert any resume of your preference on the folder called put-your-pdf-here and the application will start automatically
